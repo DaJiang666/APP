@@ -6,8 +6,12 @@ package com.danjiang.app.application;
 
 public class Util {
 
+    // jiangge_android
+
     public static String getString(){
         
         return "你好";
+
+
     }
 }
